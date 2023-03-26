@@ -1,0 +1,12 @@
+{
+  "name": "vitepress-mdit-tabs",
+  "type": "module",
+  "scripts": {
+    "start": "vitepress dev",
+    "build": "vitepress build"
+  },
+  "dependencies": {
+    "@mdit/plugin-tab": "^0.4.0",
+    "vitepress": "1.0.0-alpha.63"
+  }
+}

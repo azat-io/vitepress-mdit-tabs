@@ -1,0 +1,13 @@
+# Node.js
+node_modules
+
+# Editor
+.vscode/
+.vim/
+
+# VitePress
+dist/
+cache/
+
+# Misc
+.DS_Store
